@@ -1,0 +1,15 @@
+Added Component: Designator=B1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(Res0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(Res0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=R_LOW1 Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Pin To Net: NetName=R_LOW2 Pin=R2-2
+Added Member To Class: ClassName=TLS-01 Member=Component B1 BATTERY
+Added Member To Class: ClassName=TLS-01 Member=Component R1 Res330
+Added Member To Class: ClassName=TLS-01 Member=Component R2 Res330

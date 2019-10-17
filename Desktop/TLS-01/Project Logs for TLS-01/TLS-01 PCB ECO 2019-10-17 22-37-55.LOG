@@ -1,0 +1,28 @@
+Added Component: Designator=U1(TLS-01)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=VCC Pin=U1-2
+Added Pin To Net: NetName=SWS Pin=U1-3
+Added Pin To Net: NetName=PE4 Pin=U1-4
+Added Pin To Net: NetName=PE5 Pin=U1-5
+Added Pin To Net: NetName=PE6 Pin=U1-6
+Added Pin To Net: NetName=PE7 Pin=U1-7
+Added Pin To Net: NetName=PF0 Pin=U1-8
+Added Pin To Net: NetName=PF1 Pin=U1-9
+Added Pin To Net: NetName=PA1 Pin=U1-10
+Added Pin To Net: NetName=PA5 Pin=U1-11
+Added Pin To Net: NetName=PB0 Pin=U1-12
+Added Pin To Net: NetName=PB5 Pin=U1-13
+Added Pin To Net: NetName=PB6 Pin=U1-14
+Added Pin To Net: NetName=PC0 Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=PC1 Pin=U1-17
+Added Pin To Net: NetName=PC2 Pin=U1-18
+Added Pin To Net: NetName=PC4 Pin=U1-19
+Added Pin To Net: NetName=TX Pin=U1-20
+Added Pin To Net: NetName=RX Pin=U1-21
+Added Pin To Net: NetName=PD4 Pin=U1-22
+Added Pin To Net: NetName=PD5 Pin=U1-23
+Added Pin To Net: NetName=RST Pin=U1-24
+Added Member To Class: ClassName=TLS-01 Member=Component U1 TLS-01
+Added Room: Name=TLS-01

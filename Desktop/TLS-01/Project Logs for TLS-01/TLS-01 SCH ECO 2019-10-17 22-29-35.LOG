@@ -1,0 +1,9 @@
+Replace Part B1 BATTERY in C:\Users\hpz\Desktop\TLS-01\TLS-01.SchDoc with BATTERY from Battery.SchLib
+Replace Part H1 H_L in C:\Users\hpz\Desktop\TLS-01\TLS-01.SchDoc with H_L from Header_L.SchLib
+Replace Part H2 H_R in C:\Users\hpz\Desktop\TLS-01\TLS-01.SchDoc with H_R from Header_R.SchLib
+Replace Part H3 Header_L in C:\Users\hpz\Desktop\TLS-01\TLS-01.SchDoc with Header_L from Header_D.SchLib
+Replace Part L1 LED0603 in C:\Users\hpz\Desktop\TLS-01\TLS-01.SchDoc with LED0603 from LED.SchLib
+Replace Part L2 LED0603 in C:\Users\hpz\Desktop\TLS-01\TLS-01.SchDoc with LED0603 from LED.SchLib
+Replace Part R1 Res0603 in C:\Users\hpz\Desktop\TLS-01\TLS-01.SchDoc with Res0603 from Res0603.SchLib
+Replace Part R2 Res0603 in C:\Users\hpz\Desktop\TLS-01\TLS-01.SchDoc with Res0603 from Res0603.SchLib
+Replace Part U1 TLS-01 in C:\Users\hpz\Desktop\TLS-01\TLS-01.SchDoc with TLS-01 from JDY-10.SchLib
