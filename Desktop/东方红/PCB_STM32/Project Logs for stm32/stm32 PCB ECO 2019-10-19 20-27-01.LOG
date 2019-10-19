@@ -1,0 +1,114 @@
+Added Component: Designator=*(Header2*28)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B?(BEEP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=E?(E18)
+Add component. Clean all parameters for all variants
+Added Component: Designator=E?(E18)
+Add component. Clean all parameters for all variants
+Added Component: Designator=E?(E18)
+Add component. Clean all parameters for all variants
+Added Component: Designator=E?(E18)
+Add component. Clean all parameters for all variants
+Added Component: Designator=E?(E18)
+Add component. Clean all parameters for all variants
+Added Component: Designator=E?(E18)
+Add component. Clean all parameters for all variants
+Added Component: Designator=E?(E18)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H?(Header2*28)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S?(STEP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S?(STEP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S?(STEP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S?(STEP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(ESP8266)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W?(WAVE1*4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W?(WAVE1*4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W?(WAVE1*4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W?(WAVE1*4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W?(WAVE1*4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3V Pin=U?-4
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=E?-1
+Added Pin To Net: NetName=5V Pin=E?-1
+Added Pin To Net: NetName=5V Pin=E?-1
+Added Pin To Net: NetName=5V Pin=E?-1
+Added Pin To Net: NetName=5V Pin=E?-1
+Added Pin To Net: NetName=5V Pin=E?-1
+Added Pin To Net: NetName=5V Pin=E?-1
+Added Pin To Net: NetName=5V Pin=S?-1
+Added Pin To Net: NetName=5V Pin=S?-1
+Added Pin To Net: NetName=5V Pin=S?-1
+Added Pin To Net: NetName=5V Pin=S?-1
+Added Pin To Net: NetName=5V Pin=W?-1
+Added Pin To Net: NetName=5V Pin=W?-1
+Added Pin To Net: NetName=5V Pin=W?-1
+Added Pin To Net: NetName=5V Pin=W?-1
+Added Pin To Net: NetName=5V Pin=W?-1
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=B?-2
+Added Pin To Net: NetName=GND Pin=E?-3
+Added Pin To Net: NetName=GND Pin=E?-3
+Added Pin To Net: NetName=GND Pin=E?-3
+Added Pin To Net: NetName=GND Pin=E?-3
+Added Pin To Net: NetName=GND Pin=E?-3
+Added Pin To Net: NetName=GND Pin=E?-3
+Added Pin To Net: NetName=GND Pin=E?-3
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=W?-4
+Added Pin To Net: NetName=GND Pin=W?-4
+Added Pin To Net: NetName=GND Pin=W?-4
+Added Pin To Net: NetName=GND Pin=W?-4
+Added Pin To Net: NetName=GND Pin=W?-4
+Added Net: Name=GND
+Added Pin To Net: NetName=PC1 Pin=W?-2
+Added Net: Name=PC1
+Added Pin To Net: NetName=PC2 Pin=W?-3
+Added Net: Name=PC2
+Added Pin To Net: NetName=PD0 Pin=W?-2
+Added Net: Name=PD0
+Added Pin To Net: NetName=PD1 Pin=W?-3
+Added Net: Name=PD1
+Added Pin To Net: NetName=PE0 Pin=W?-3
+Added Net: Name=PE0
+Added Pin To Net: NetName=PE1 Pin=W?-2
+Added Net: Name=PE1
+Added Pin To Net: NetName=PE3 Pin=W?-2
+Added Net: Name=PE3
+Added Pin To Net: NetName=PE4 Pin=W?-2
+Added Net: Name=PE4
+Added Pin To Net: NetName=PE5 Pin=W?-3
+Added Net: Name=PE5
+Added Pin To Net: NetName=PE6 Pin=W?-3
+Added Net: Name=PE6
+Added Pin To Net: NetName=PF1 Pin=E?-2
+Added Net: Name=PF1
+Added Pin To Net: NetName=PF2 Pin=E?-2
+Added Net: Name=PF2
+Added Pin To Net: NetName=PF3 Pin=E?-2
+Added Net: Name=PF3
+Added Pin To Net: NetName=PF4 Pin=E?-2
+Added Net: Name=PF4
+Added Pin To Net: NetName=PF5 Pin=E?-2
+Added Net: Name=PF5
+Added Pin To Net: NetName=PF6 Pin=E?-2
+Added Net: Name=PF6
+Added Pin To Net: NetName=PF7 Pin=E?-2
+Added Net: Name=PF7
+Added Pin To Net: NetName=RX1 Pin=U?-5
+Added Net: Name=RX1
+Added Pin To Net: NetName=TX1 Pin=U?-1
+Added Net: Name=TX1
+Added Class: Name=stm32
+Added Room: Name=stm32
